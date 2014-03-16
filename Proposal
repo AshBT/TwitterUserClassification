@@ -1,0 +1,52 @@
+Final Project Proposal
+======================
+User interest classification based on their social media content(twitter)
+
+
+* Problem you are solving?
+	- This project would be a prototype project for my company's data initaitive
+	- Classifying users based on their tweets and showing them targeted ads based on their interests
+	
+* Description of data set and how you will obtain it
+	- Data set for this project will contain max 50 tweets from twitter users.
+	- User selection would be done based on their interest.
+	- User would be selected from wide variety of interest areas
+	- Ex: 	#list of people - interests
+			#pinchofyum food
+			#howardlindzon finance
+			#pervaizistan news
+			#drublic webdev
+
+* Statistical methods you plan to use and why
+	- Any of the following classification algorithm
+		* RandomForestClassifier
+		* LogisticRegression
+		* GradientBoostingClassifier
+
+* What business applications do you think your findings will have?
+	- Ads Targeting: Can be used to classify user based on their interest and show targeted ads.
+	- Ex: User tweeting about finance can be classified as interested in finance and shown finance related ads.
+
+
+
+INTEREST (20):
+food
+health
+webdev
+politics
+finance
+tech
+bitcoin
+aviation
+business
+bigdata
+datascience
+mac
+PC
+gaming
+blogging
+cooking
+movies
+music
+news
+yoga
