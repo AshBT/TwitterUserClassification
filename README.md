@@ -59,7 +59,9 @@ python gettweets.py Paula_Deen cooking
 python gettweets.py hetaltrivedibl health
 
 python gettweets.py MensHealthMag health
+
 python gettweets.py WomensHealthMag health
+
 python gettweets.py goodhealth health
 
 python gettweets.py WSJ news
