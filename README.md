@@ -4,7 +4,9 @@ User Interest Classification (Twitter)
 User interest classification based on their social media content (Twitter)
 
 
+
 ** Edit below values in file "gettweets.py" from your twitter API:
+
 ------------------------------------------------------------------
 access_token_key = ""
 access_token_secret = ""
